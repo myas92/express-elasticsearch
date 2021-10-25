@@ -1,0 +1,7 @@
+1: sudo nano /etc/elasticsearch/elasticsearch.yml
+------------------------------------------------------------
+2: default port of elasticsearch is 
+9200
+---------------------------------------------------------------
+3: for runnig elasticsearch service
+sudo systemctl start elasticsearch

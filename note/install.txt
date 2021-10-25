@@ -3,3 +3,16 @@
 2: follow this documentation 
 https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-18-04
 --------------------------------------------------------------------------------------------------------------------
+3: after inst of elasticsearch we should install Kibana, IDE for Elasticsearch
+http://localhost:5601/app/home#/tutorial_directory
+--------------------------------------------------------------------------------------------------------------------
+4: we should uncommand config of Kibana, follow this stpes
+https://www.rosehosting.com/blog/how-to-install-elk-stack-on-ubuntu-20-04/#comment-48724
+----------------------------------------------------------------------------------------------------------------------
+5: see kibana-config.png after installation Kibina
+--------------------------------------------------------------------------------------------------------------------
+6: Install Logstash and Filebeat too
+--------------------------------------------------------------------------------------------------------------------
+7: finally visit
+http://localhost:5601/
+
