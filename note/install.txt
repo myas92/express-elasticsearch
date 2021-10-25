@@ -1,0 +1,5 @@
+1: for installation of Elasticsearch, needs to VPN
+-------------------------------------------------------------------------------------------------------------------
+2: follow this documentation 
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-18-04
+--------------------------------------------------------------------------------------------------------------------
